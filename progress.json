@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T21:16:15.175Z",
+  "generated_at": "2026-10-20T21:49:10.997Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -135,6 +135,19 @@
       "path": "math/0104-training-error-test-error-and-the-bayes-rate",
       "first_solved_at": "2026-10-20T21:16:13.978Z",
       "last_pushed_at": "2026-10-20T21:16:13.978Z"
+    },
+    "problem:291": {
+      "kind": "problem",
+      "id": "291",
+      "title": "Calculate Number of Parameters in Neural Network",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/291",
+      "path": "problems/0291-calculate-number-of-parameters-in-neural-network",
+      "first_solved_at": "2026-10-20T21:49:10.322Z",
+      "last_pushed_at": "2026-10-20T21:49:10.322Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
