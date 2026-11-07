@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T22:09:29.018Z",
+  "generated_at": "2026-11-07T00:14:00.911Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -198,6 +198,17 @@
       "path": "math/0039-bias-variance-decomposition",
       "first_solved_at": "2026-10-25T22:09:28.345Z",
       "last_pushed_at": "2026-10-25T22:09:28.345Z"
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-11-07T00:14:00.166Z",
+      "last_pushed_at": "2026-11-07T00:14:00.166Z"
     }
   }
 }
